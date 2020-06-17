@@ -1,6 +1,6 @@
 package day03;
 
-public class HomeWork {
+public class MultiplicationTable {
     public static void main(String[] args) {
         int i,j;
         for(i=1;i<=9;i++){
